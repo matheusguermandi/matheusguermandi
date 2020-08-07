@@ -16,3 +16,9 @@ My name is Matheus Guermandi! I'm a Full Stack developer 👨‍💻
 - 🔭 I’m currently working on JavaScript apps/systems
 - 🌱 I’m currently learning IA, Artificial neural networks and of course JS improvments
 - 📩 Any help? Send me an [e-mail](mailto:matheus_guermandi@hotmail.com).
+
+## Informations
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusguermandi&theme=default" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguermandi&hide=html&layout=compact&theme=default" />
+
