@@ -19,6 +19,6 @@ My name is Matheus Guermandi! I'm a Full Stack developer 👨‍💻
 
 ## Informations
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusguermandi&theme=default" />
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguermandi&hide=html&layout=compact&theme=default" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusguermandi&theme=default"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguermandi&hide=html&layout=compact&theme=default"/>
 
