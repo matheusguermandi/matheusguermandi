@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matheusguermandi/matheusguermandi/blob/master/assets/background.png" width="400"
+  <img src="https://user-images.githubusercontent.com/27836893/188276384-9e33015a-d52c-431e-9a7a-90fe77f7d637.svg" width="400"
   alt="background" />
 </p>
 
