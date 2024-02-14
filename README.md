@@ -5,7 +5,6 @@ I'm Matheus, a software engineer with hands-on experience in diverse market sett
 🔭 Currently, I am immersing myself in learning about Clean Architecture, Design Patterns, Domain-Driven Design (DDD), and Test-Driven Development (TDD) as I strive to refine my architectural and design skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-guermandi-ribeiro-85354a156/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:matheus_guermandi@hotmail.com)](mailto:matheus_guermandi@hotmail.com)
 
 ## Informations
 
