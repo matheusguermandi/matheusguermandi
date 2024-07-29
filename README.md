@@ -9,11 +9,3 @@ Recently I've achieved my Amazon Web Services (AWS) Developer Associate certific
 - Validation number: 7370ae6a7fa249a994a2dbe8a2bcba43
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-guermandi-ribeiro-85354a156/)
-
-## Informations
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusguermandi&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguermandi&layout=compact&langs_count=6&theme=dark"/>
-</div>
-
